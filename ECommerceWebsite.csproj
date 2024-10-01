@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Assets\1.jpg" />
+    <None Include="wwwroot\Assets\Banner.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bootstrap" Version="5.3.3" />
+  </ItemGroup>
+
 </Project>
